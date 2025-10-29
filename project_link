@@ -1,1 +1,4 @@
+constant link:
 https://huggingface.co/spaces/yasaswik/pneumonia-detector
+changable link:
+after run code in the google colab you'll get another link but it'll expires within 30-40mins after close the google colab!!
